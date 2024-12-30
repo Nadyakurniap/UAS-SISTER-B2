@@ -31,6 +31,8 @@ Data yang diambil dari pengguna meliputi:
   int termInYears = Integer.parseInt(termInYearsField.getText().replace(".", ""));
   double downPayment = parseFormattedInput(downPaymentField.getText());
 
+# 3. Fungsi Perhitungan
+![image](https://github.com/user-attachments/assets/1a4eb7a5-d8fe-4711-b5c9-7081aa6eee64)
 
 
 
