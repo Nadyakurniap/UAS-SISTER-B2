@@ -96,7 +96,7 @@ downPaymentPercentLabel.setText("Persentase Uang Muka: " + percentFormat.format(
 };`
 
 
-# 3. Fungsi Perhitungan
+# C. Fungsi Perhitungan
 - Cicilan Bulanan
 ![image](https://github.com/user-attachments/assets/1a4eb7a5-d8fe-4711-b5c9-7081aa6eee64)
   dengan :
